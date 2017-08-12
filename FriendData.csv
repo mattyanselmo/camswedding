@@ -8,8 +8,8 @@ Matthias,2012,0,0
 Matthias,2013,0,0
 Matthias,2014,0,0
 Matthias,2015,0,0
-Matthias,2016,-3,0
-Matthias,2017,-3,0
+Matthias,2016,3,-3
+Matthias,2017,3,-3
 Austin,2010,-1,1
 Austin,2011,-1,1
 Austin,2012,-1,1
@@ -36,14 +36,14 @@ Jerwei,2013,1,1
 Jerwei,2014,1,1
 Jerwei,2015,1,1
 Jerwei,2016,1,1
-Jerwei,2017,1,0
+Jerwei,2017,0,0
 Tony,2011,1,1
 Tony,2012,1,1
 Tony,2013,1,1
 Tony,2014,1,1
 Tony,2015,1,1
 Tony,2016,1,1
-Tony,2017,1,0
+Tony,2017,0,0
 Zach,2008,1,1
 Zach,2009,1,1
 Zach,2010,1,1
@@ -53,7 +53,7 @@ Zach,2013,1,1
 Zach,2014,1,1
 Zach,2015,1,1
 Zach,2016,1,1
-Zach,2017,1,0
+Zach,2017,0,0
 Kirsten,2010,0,0
 Kirsten,2011,5,5
 Kirsten,2012,5,5
@@ -65,4 +65,4 @@ Kirsten,2014.75,5,15
 Kirsten,2015,5,5
 Kirsten,2016,5,6
 Kirsten,2017,5,7
-Kirsten,2050,5,40
+Kirsten,2050,40,40
